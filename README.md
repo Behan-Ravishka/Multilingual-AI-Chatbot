@@ -35,6 +35,7 @@ This project utilizes an isolated `.venv` to prevent dependency conflicts (e.g.,
 ```bash
 git clone [https://github.com/yourusername/Multilingual-AI-Chatbot.git](https://github.com/yourusername/Multilingual-AI-Chatbot.git)
 cd Multilingual-AI-Chatbot
+```bash
 
 **2. Activate the Virtual Environment**
 Ensure you are running Python 3.12.
