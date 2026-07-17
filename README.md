@@ -35,18 +35,22 @@ This project utilizes an isolated `.venv` to prevent dependency conflicts (e.g.,
 ```bash
 git clone [https://github.com/yourusername/Multilingual-AI-Chatbot.git](https://github.com/yourusername/Multilingual-AI-Chatbot.git)
 cd Multilingual-AI-Chatbot
+```
 
 **2. Activate the Virtual Environment**
 Ensure you are running Python 3.12.
-
+```bash
 python -m venv .venv
 .venv\Scripts\activate
+```
 
 **3. Install Dependencies**
-
+```bash
 pip install streamlit ollama
+```
 
 **4. Run the Application**
 Ensure the Ollama engine is running in the background, then launch the frontend:
-
+```bash
 streamlit run app.py
+```
