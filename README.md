@@ -3,8 +3,8 @@
 A highly responsive, multilingual conversational AI assistant built entirely with local, open-weights machine learning models. This application ensures complete data privacy by running inference locally without relying on external APIs.
 
 ## 📸 Project Screenshots
-![screenshot1](assets/screenshot1.png)
-![screenshot2](assets/screenshot2.png)
+![screenshot1](https://github.com/Behan-Ravishka/Multilingual-AI-Chatbot/blob/main/assets/screenshot1.png.jpg)
+![screenshot2](https://github.com/Behan-Ravishka/Multilingual-AI-Chatbot/blob/main/assets/screenshot2.png.jpg)
 
 ## 🛠️ Technology Stack & Architecture
 
