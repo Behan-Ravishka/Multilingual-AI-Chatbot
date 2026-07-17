@@ -3,10 +3,8 @@
 A highly responsive, multilingual conversational AI assistant built entirely with local, open-weights machine learning models. This application ensures complete data privacy by running inference locally without relying on external APIs.
 
 ## 📸 Project Screenshots
-*(Replace the file names below with your actual screenshot names)*
-![Chat Interface](assets/screenshot1.png)
-![Language Switching](assets/screenshot2.png)
-![Backend Loading](assets/screenshot3.png)
+(assets/screenshot1.png)
+(assets/screenshot2.png)
 
 ## 🛠️ Technology Stack & Architecture
 
